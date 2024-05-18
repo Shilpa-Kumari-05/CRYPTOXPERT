@@ -60,7 +60,7 @@ We possess a positive attitude towards the cryptocurrencies market and  believe 
 ## About The Project
 
 
-`Prashant-kumar-aryan`, `CryptoXpert`,`https://www.linkedin.com/in/prashant-kumar-aryan-517b4a25a/`, `prashantkr2698@gmail.com`, `crypto chat app`
+`Shilpa Kumari`, `CryptoXpert`,`https://www.linkedin.com/in/shilpa-kumari-73a284264`, `kumarishilpa97161@gmail.com`, `crypto chat app`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

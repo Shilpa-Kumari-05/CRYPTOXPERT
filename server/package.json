@@ -8,7 +8,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "prashantKumarAryan",
+  "author": "Shilpa Kumari",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
